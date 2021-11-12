@@ -73,6 +73,10 @@ const DESCRIPTION = {
 
 title('Weather');
 
+intent('sun', p => {
+    p.play('(cloud today)');
+});
+
 intent(
     '(what) (is|) (the|) $(QUERY weather|temperature|humidity|pressure) (like|)',
     '(what) (is|) (the|) $(QUERY weather|temperature|humidity|pressure) (like|) in $(LOC)',
