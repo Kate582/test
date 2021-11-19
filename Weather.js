@@ -73,8 +73,8 @@ const DESCRIPTION = {
 
 title('Weather');
 
-intent('sun', p => {
-    p.play('(cloud today)');
+intent('sun sun', p => {
+    p.play('(sky sky)');
 });
 
 intent(

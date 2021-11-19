@@ -170,7 +170,7 @@ intent(`how to (make an|) order`, `Give me an (order|) example`,
 
 intent(`(open|what do you have in|choose|select|) $(ITEM ${CATEGORY_LIST})`, p => {
     p.play({command: 'navigation', route: `/menu/${CATEGORY_ALIASES[p.ITEM.toLowerCase()]}`});
-    p.play(`Openning ${p.ITEM} menu`);
+    p.play(`Opening ${p.ITEM} menu`);
 });
 
 intent(`open cart`, p => {
