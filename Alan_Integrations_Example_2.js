@@ -1,5 +1,5 @@
 // {Name: Alan_Integrations_Example}
-// {Description: Contains examples on how to integrate Alan with different platforms and frameworks}
+// {!!!Description: Contains examples on how to integrate Alan with different platforms and frameworks}
 
 // Alan can be integrated with any application on most popular platforms and supports many different frameworks.
 // This example will guide you through how to do a basic integration of Alan with your app.
