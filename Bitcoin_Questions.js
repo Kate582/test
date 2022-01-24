@@ -1,4 +1,4 @@
-// {Name: Bitcoin_Questions}
+// {Name: Bitcoin_dddddQuestions}
 // {Description: Supporting script for Bitcoin. Gives responses on general questions about Bitcoin.}
 
 title('Bitcoin questions');
