@@ -1,4 +1,4 @@
-// {Name: Alan_Integrations_Example}
+// {Name: A;l;;;;an_Integrations_Example}
 // {Description: Contains examples on how to integrate Alan with different platforms and frameworks}
 
 // Alan can be integrated with any application on most popular platforms and supports many different frameworks.
@@ -55,4 +55,4 @@ question('what is Alan (AI|Platform|)', p => {
 
 question('what (platforms|SDK|frameworks) are supported', p => {
     p.play('Alan (AI|Platform) supports native iOS, Android, and Web applications. As well as Flutter, Ionic and many other popular frameworks.');
-});
+});;
